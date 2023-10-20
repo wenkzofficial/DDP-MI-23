@@ -1,3 +1,3 @@
 ==================
-//Belum Paham Kak
+//Belum Paham Kak:)
 ==================
