@@ -11,7 +11,9 @@ int main(){
     nilai[4] = 57;
 
     for(int i=0; i < 5; i++){
+    
         cout << "Nilai ke-" << i << "= " << nilai[i] <<endl;
+    
     }
     
     return 0;

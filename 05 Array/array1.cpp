@@ -17,4 +17,5 @@ int main(){
     cout << "Nilai ke-5: " << nilai[4] << endl;
     
     return 0;
+    
 }
